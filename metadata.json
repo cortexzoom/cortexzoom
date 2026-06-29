@@ -1,0 +1,6 @@
+{
+  "name": "CortexZoom",
+  "description": "CortexZoom: An ultra-modern space-themed AI assistant, containing high-tech energy waves, language translator, interactive doubt clearance, space-themed QuestoQuiz, autonomous workflows, and Vector voice assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
